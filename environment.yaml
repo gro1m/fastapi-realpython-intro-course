@@ -1,0 +1,7 @@
+name: fast-api-tutorial-env
+dependencies:
+  - conda-forge::python=3.9.*
+  - conda-forge::uvicorn=0.18.*
+  - conda-forge::fastapi=0.79.*
+  - conda-forge::httpie=3.2.*
+  - conda-forge::mongita=1.1.*
